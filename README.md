@@ -59,6 +59,6 @@
   <a href="https://www.linkedin.com/in/victor-d-579671213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/victordevulcanis/victordevulcanis/projects?query=is%3Aopen" target="_blank">
+  <a href="https://github.com/victordevulcanis?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
  </div>
