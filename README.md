@@ -26,8 +26,8 @@
 <br> 
 
 📫 Living in Germany: Gummersbach - Nordrhein-Westfalen
-<br/>
-<br/>
+
+<br>
 
 ⚡ Language Proficiency:
 
