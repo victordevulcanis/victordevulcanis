@@ -17,6 +17,7 @@
 
 <p align="left"> 
 <a href="https://cleancoders.com" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/6729000?s=200&v=4" alt="cleancoders" width="40" height="40"/> </a>
+<a href="http://www.oreilly.com/" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/382513?s=200&v=4" alt="oreilly" width="40" height="40"/> </a>
 <a href="https://www.alura.com.br" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="alura" width="40" height="40"/> </a>
 <a href="http://devdojo.academy" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32967317?s=200&v=4" alt="devdojoacademy" width="40" height="40"/> </a>
 
