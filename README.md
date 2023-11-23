@@ -15,8 +15,10 @@
 
 🏫 Studying at the Digital Coding Academies:
 
-<p align="left"> <a href="https://www.alura.com.br" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="alura" width="40" height="40"/> </a>
-<a href="http://devdojo.academy" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32967317?s=200&v=4" alt="devdojoacademy" width="40" height="40"/> </a>
+<p align="left"> 
+<a href="https://cleancoders.com" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/6729000?s=200&v=4" alt="cleancoders" width="40" height="40"/> </a>
+<a href="https://www.alura.com.br" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="alura" width="40" height="40"/> </a>
+<a href="http://devdojo.academy" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32967317?s=200&v=4" alt="devdojoacademy" width="40" height="40"/> </a>
 
 <br>
 <br>
@@ -37,9 +39,12 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a> </p>
-
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <br>
 
 <h3 align="left">My Status:</h3>
