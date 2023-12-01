@@ -5,11 +5,15 @@
 
 🧠 Solid knowledge already acquired about Java:
 
-- Object-Oriented Programming
+Object-Oriented Programming (OOP)
 - Java Syntax
-- Code debug Handling
-- Exceptions Handling
-- Utilization of Java Libraries and Utility Classes
+- Code debug handling
+- Exceptions
+- Collections
+- Clean Code Fundamentals
+- SOLID
+- Test-Driven Development (TDD)
+- Design Patterns
 
 <br>
 
@@ -22,9 +26,7 @@
 <a href="http://devdojo.academy" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32967317?s=200&v=4" alt="devdojoacademy" width="40" height="40"/> </a>
 
 <br>
-<br>
 
-🌱 Currently learning **SOLID and Test Driven Development**
 
 <br> 
 
