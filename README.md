@@ -11,6 +11,8 @@ Object-Oriented Programming (OOP)
 - Exceptions
 - Collections
 - Clean Code Fundamentals
+
+🤓 Currently studying:
 - SOLID
 - Test-Driven Development (TDD)
 - Design Patterns
